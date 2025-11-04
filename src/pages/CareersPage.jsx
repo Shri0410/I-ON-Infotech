@@ -22,7 +22,7 @@ const CareersPage = () => {
       type: "Full-time",
       location: "Remote",
       experience: "5+ years",
-      salary: "$90,000 - $120,000",
+      salary: "30,000 - 40,000",
       posted: "2 days ago",
       description:
         "We're looking for an experienced Full-Stack Developer to join our growing team and work on cutting-edge web applications.",
@@ -55,7 +55,7 @@ const CareersPage = () => {
       type: "Full-time",
       location: "Hybrid",
       experience: "3+ years",
-      salary: "$70,000 - $90,000",
+      salary: "20,000 - 25,000",
       posted: "1 week ago",
       description:
         "Join our design team to create beautiful, intuitive user experiences that delight our clients and their customers.",
@@ -88,7 +88,7 @@ const CareersPage = () => {
       type: "Full-time",
       location: "Remote",
       experience: "2+ years",
-      salary: "$55,000 - $75,000",
+      salary: "15,000 - 20,000",
       posted: "3 days ago",
       description:
         "Help us grow our brand and reach new clients through innovative digital marketing strategies.",
@@ -121,7 +121,7 @@ const CareersPage = () => {
       type: "Full-time",
       location: "Remote",
       experience: "4+ years",
-      salary: "$100,000 - $130,000",
+      salary: "50,000 - 60,000",
       posted: "5 days ago",
       description:
         "Join our infrastructure team to build and maintain scalable, reliable systems that power our applications.",
@@ -154,7 +154,7 @@ const CareersPage = () => {
       type: "Full-time",
       location: "Hybrid",
       experience: "4+ years",
-      salary: "$80,000 - $100,000",
+      salary: "50,000 - 60,000",
       posted: "1 week ago",
       description:
         "Lead our project teams to deliver exceptional results for our clients while ensuring projects stay on track and within budget.",
@@ -187,7 +187,7 @@ const CareersPage = () => {
       type: "Contract",
       location: "Remote",
       experience: "3+ years",
-      salary: "$40 - $60/hour",
+      salary: "15,000 - 20,000",
       posted: "1 day ago",
       description:
         "Work on exciting client projects as a contract Frontend Developer, creating responsive and interactive web applications.",
